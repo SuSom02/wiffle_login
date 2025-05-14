@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wiffle_login/static/css/main.d8a6d5be.css",
+    "main.js": "/wiffle_login/static/js/main.6586aa54.js",
+    "static/js/453.25bbafe7.chunk.js": "/wiffle_login/static/js/453.25bbafe7.chunk.js",
+    "index.html": "/wiffle_login/index.html",
+    "main.d8a6d5be.css.map": "/wiffle_login/static/css/main.d8a6d5be.css.map",
+    "main.6586aa54.js.map": "/wiffle_login/static/js/main.6586aa54.js.map",
+    "453.25bbafe7.chunk.js.map": "/wiffle_login/static/js/453.25bbafe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8a6d5be.css",
+    "static/js/main.6586aa54.js"
+  ]
+}
